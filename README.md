@@ -11,7 +11,8 @@ Here you'll find my projects, certifications, and learning progress.
 ---
 
 ## 🕵️ Hack The Box
-[![Hack The Box Badge](https://www.hackthebox.com/badge/image/HTB-D9409E2103.png)](https://app.hackthebox.com/profile/HTB-D9409E2103)
+[![Linux Fundamentals Badge]()](https://academy.hackthebox.com/achievement/badge/4d9428fb-9379-11f0-9254-bea50ffe6cb4)**Linux Fundamentals Badge**
+
 
 ---
 
