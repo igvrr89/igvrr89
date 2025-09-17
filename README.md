@@ -31,8 +31,7 @@ Here you'll find my projects, certifications, and learning progress.
 
 ## 🚀 Projects
 - [Calorie Calculator (Python)](https://github.com/igvrr89/Python_Project)
-- [Cisco Labs Automation Script](https://github.com/igvrr89/cisco-lab-automation)
-- [Network Scanner (Python)](https://github.com/igvrr89/network-scanner)
+- [Network Scanner (Python)](https://github.com/igvrr89/Network_Scanner)
 
 ---
 
