@@ -9,7 +9,26 @@ Here you'll find my projects, certifications, and learning progress.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/igor-paw%C5%82owski/)
 
 ---
+## 🕵️ Hack The Box
+[![Linux Fundamentals Badge](https://academy.hackthebox.com/storage/badges/linux-fundamentals.png)](https://academy.hackthebox.com/achievement/badge/4d9428fb-9379-11f0-9254-bea50ffe6cb4) **Linux Fundamentals Badge**
 
+[![Philomath Badge](https://academy.hackthebox.com/storage/badges/philomath.png)](https://academy.hackthebox.com/achievement/badge/f379fa5c-a7b4-11f0-9254-bea50ffe6cb4) **Philomath Badge**
+
+[![Bash Scripting Badge](https://academy.hackthebox.com/storage/badges/bash-scripting.png)](https://academy.hackthebox.com/achievement/badge/848f92d8-a7bf-11f0-9254-bea50ffe6cb4) **Bash Scripting Badge**
+
+[![Introduction to Networking Badge](https://academy.hackthebox.com/storage/badges/intro-to-networking.png)](https://academy.hackthebox.com/achievement/badge/ba2ab371-a7bb-11f0-9254-bea50ffe6cb4) **Introduction to Networking Badge**
+
+[![Windows Fundamentals Badge](https://academy.hackthebox.com/storage/badges/windows-fundamentals.png)](https://academy.hackthebox.com/achievement/badge/a57f790b-a7c2-11f0-9254-bea50ffe6cb4) **Windows Fundamentals Badge**
+
+[![Pentest in Nutshell Badge](https://academy.hackthebox.com/storage/badges/pentest-in-a-nutshell.png)](https://academy.hackthebox.com/achievement/badge/3ec5a7e0-a7cd-11f0-9254-bea50ffe6cb4) **Pentest in Nutshell Badge**
+
+[![Network Foundations Badge](https://academy.hackthebox.com/storage/badges/network-foundations.png)](https://academy.hackthebox.com/achievement/badge/f9d2b045-a7ba-11f0-9254-bea50ffe6cb4) **Network Foundations Badge**
+
+[![Web Request Badge](https://academy.hackthebox.com/storage/badges/web-requests.png)](https://academy.hackthebox.com/achievement/2158827/35) **Web Request Badge**
+
+[![Introduction to Information Security Badge](https://academy.hackthebox.com/storage/badges/introduction-to-information-security.png)](https://academy.hackthebox.com/achievement/badge/e5405932-a7b5-11f0-9254-bea50ffe6cb4) **Introduction to Information Security Badge**
+
+[![Intro to Network Traffic Analysis Badge](https://academy.hackthebox.com/storage/badges/intro-to-network-traffic-analysis.png)](https://academy.hackthebox.com/achievement/2158827/81) **Intro to Network Traffic Analysis Badge**
 ## 🕵️ Hack The Box
 [![Linux Fundamentals Badge]()](https://academy.hackthebox.com/achievement/badge/4d9428fb-9379-11f0-9254-bea50ffe6cb4)**Linux Fundamentals Badge**
 
