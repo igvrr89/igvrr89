@@ -12,8 +12,11 @@ Here you'll find my projects, certifications, and learning progress.
 
 ## 🕵️ Hack The Box
 [![Linux Fundamentals Badge]()](https://academy.hackthebox.com/achievement/badge/4d9428fb-9379-11f0-9254-bea50ffe6cb4)**Linux Fundamentals Badge**
+
 [![Philomth Badge]()](https://academy.hackthebox.com/achievement/badge/f379fa5c-a7b4-11f0-9254-bea50ffe6cb4)**Philomath Badge**
+
 [![Bash Scripting Badge]()](https://academy.hackthebox.com/achievement/badge/848f92d8-a7bf-11f0-9254-bea50ffe6cb4)**Bash Scripting Badge**
+
 [![Introduction to Networking Badge]()](https://academy.hackthebox.com/achievement/badge/ba2ab371-a7bb-11f0-9254-bea50ffe6cb4)**Introduction to Networking Badge**
 
 ---
