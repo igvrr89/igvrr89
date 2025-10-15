@@ -23,7 +23,7 @@ Here you'll find my projects, certifications, and learning progress.
 
 [![Pentest in Nutshell Badge]()](https://academy.hackthebox.com/achievement/badge/3ec5a7e0-a7cd-11f0-9254-bea50ffe6cb4)**Pentest in Nutshell Badge**
 
-[![Windows Fundamentals Badge]()](https://academy.hackthebox.com/achievement/badge/a57f790b-a7c2-11f0-9254-bea50ffe6cb4)**Windows Fundamentals Badge**
+[![Network Foundations Badge]()](https://academy.hackthebox.com/achievement/badge/f9d2b045-a7ba-11f0-9254-bea50ffe6cb4)**Network Foundations Badge**
 
 
 ---
