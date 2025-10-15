@@ -25,7 +25,7 @@ Here you'll find my projects, certifications, and learning progress.
 
 [![Windows Fundamentals Badge]()](https://academy.hackthebox.com/achievement/badge/a57f790b-a7c2-11f0-9254-bea50ffe6cb4)**Windows Fundamentals Badge**
 
-[![Windows Fundamentals Badge]()](https://academy.hackthebox.com/achievement/badge/a57f790b-a7c2-11f0-9254-bea50ffe6cb4)**Windows Fundamentals Badge**
+
 ---
 
 ## 🔒 TryHackMe
