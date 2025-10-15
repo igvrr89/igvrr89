@@ -25,7 +25,7 @@ Here you'll find my projects, certifications, and learning progress.
 
 [![Network Foundations Badge]()](https://academy.hackthebox.com/achievement/badge/f9d2b045-a7ba-11f0-9254-bea50ffe6cb4)**Network Foundations Badge**
 
-[![Network Foundations Badge]()](https://academy.hackthebox.com/achievement/badge/f9d2b045-a7ba-11f0-9254-bea50ffe6cb4)**Network Foundations Badge**
+[![Web Request Badge]()](https://academy.hackthebox.com/achievement/2158827/35)**Web Request Badge**
 
 [![Introduction to Information Security Badge]()](https://academy.hackthebox.com/achievement/badge/e5405932-a7b5-11f0-9254-bea50ffe6cb4)**Introduction to Information Security Badge**
 
