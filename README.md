@@ -29,7 +29,7 @@ Here you'll find my projects, certifications, and learning progress.
 
 [![Introduction to Information Security Badge]()](https://academy.hackthebox.com/achievement/badge/e5405932-a7b5-11f0-9254-bea50ffe6cb4)**Introduction to Information Security Badge**
 
-[![Network Foundations Badge]()](https://academy.hackthebox.com/achievement/badge/f9d2b045-a7ba-11f0-9254-bea50ffe6cb4)**Network Foundations Badge**
+[![Intro to Network Traffic Analysis Badge]()](https://academy.hackthebox.com/achievement/2158827/81)**Intro to Network Traffic Analysis  Badge**
 
 ---
 
