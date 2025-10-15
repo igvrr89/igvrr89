@@ -36,6 +36,9 @@ Here you'll find my projects, certifications, and learning progress.
 ## 🔒 TryHackMe
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/igorpaw47.png)](https://tryhackme.com/p/5091676)
 
+[![Introduction to Security Engineering Badge]()](https://tryhackme.com/igorpaw47/badges/intro-to-security-engineering)**Introduction to Security Engineering Badge**
+
+[![Cat linux.txt Badge]()](https://tryhackme.com/igorpaw47/badges/terminaled)**Cat linux.txt Badge**
 
 ---
 
