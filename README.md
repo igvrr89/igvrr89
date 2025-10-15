@@ -10,6 +10,38 @@ Here you'll find my projects, certifications, and learning progress.
 
 ---
 ## 🕵️ Hack The Box
+
+<a href="https://academy.hackthebox.com/achievement/badge/4d9428fb-9379-11f0-9254-bea50ffe6cb4">
+  <img src="https://academy.hackthebox.com/storage/badges/linux-fundamentals.png" width="80" alt="Linux Fundamentals Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/badge/f379fa5c-a7b4-11f0-9254-bea50ffe6cb4">
+  <img src="https://academy.hackthebox.com/storage/badges/philomath.png" width="80" alt="Philomath Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/badge/848f92d8-a7bf-11f0-9254-bea50ffe6cb4">
+  <img src="https://academy.hackthebox.com/storage/badges/bash-scripting.png" width="80" alt="Bash Scripting Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/badge/ba2ab371-a7bb-11f0-9254-bea50ffe6cb4">
+  <img src="https://academy.hackthebox.com/storage/badges/intro-to-networking.png" width="80" alt="Introduction to Networking Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/badge/a57f790b-a7c2-11f0-9254-bea50ffe6cb4">
+  <img src="https://academy.hackthebox.com/storage/badges/windows-fundamentals.png" width="80" alt="Windows Fundamentals Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/badge/3ec5a7e0-a7cd-11f0-9254-bea50ffe6cb4">
+  <img src="https://academy.hackthebox.com/storage/badges/pentest-in-a-nutshell.png" width="80" alt="Pentest in Nutshell Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/badge/f9d2b045-a7ba-11f0-9254-bea50ffe6cb4">
+  <img src="https://academy.hackthebox.com/storage/badges/network-foundations.png" width="80" alt="Network Foundations Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/2158827/35">
+  <img src="https://academy.hackthebox.com/storage/badges/web-requests.png" width="80" alt="Web Request Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/badge/e5405932-a7b5-11f0-9254-bea50ffe6cb4">
+  <img src="https://academy.hackthebox.com/storage/badges/introduction-to-information-security.png" width="80" alt="Introduction to Information Security Badge">
+</a>
+<a href="https://academy.hackthebox.com/achievement/2158827/81">
+  <img src="https://academy.hackthebox.com/storage/badges/intro-to-network-traffic-analysis.png" width="80" alt="Intro to Network Traffic Analysis Badge">
+</a>
+## 🕵️ Hack The Box
 [![Linux Fundamentals Badge]()](https://academy.hackthebox.com/achievement/badge/4d9428fb-9379-11f0-9254-bea50ffe6cb4)**Linux Fundamentals Badge**
 
 [![Philomth Badge]()](https://academy.hackthebox.com/achievement/badge/f379fa5c-a7b4-11f0-9254-bea50ffe6cb4)**Philomath Badge**
