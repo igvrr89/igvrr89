@@ -50,6 +50,9 @@ Here you'll find my projects, certifications, and learning progress.
 - [![Engaging Stakeholders for Success]()](https://www.credly.com/badges/6da62293-e024-4840-b489-17da92420b76/public_url) **Engaging Stakeholders for Success Badge**
 
 
+## 🔒 Fortinet
+- [![Getting Started in Cybersecurity 3.0]()](https://www.credly.com/badges/809bcb38-7cec-4aa6-adb9-33f675a5e1f9/public_url) **Getting Started in Cybersecurity 3.0**
+
 
 ---
 
