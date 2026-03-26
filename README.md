@@ -48,6 +48,10 @@ Here you'll find my projects, certifications, and learning progress.
 - [![Ethical Hacker]()](https://www.credly.com/badges/37517cd5-b326-4b09-a484-c6fa52e99648/public_url) **Ethical Hacker Badge**
 - [![English for IT 1]()](https://www.credly.com/badges/07bc7736-659a-44a2-b64d-f33edc090eae/public_url) **English for IT 1 Badge**
 - [![Engaging Stakeholders for Success]()](https://www.credly.com/badges/6da62293-e024-4840-b489-17da92420b76/public_url) **Engaging Stakeholders for Success Badge**
+- [![Python Essentials 1]()](https://www.credly.com/badges/08216019-68b7-430d-a95f-9f4b72d73ea4/public_url) **Python Essentials 1 Badge**
+- [![Python Essentials 2]()](https://www.credly.com/badges/15641a2e-f16b-4576-a631-52ccd1938b4c/public_url) **Python Essentials 2 Badge**
+- [![JavaScript Essentials 2]()](https://www.credly.com/badges/1b268b9e-72f5-4b5a-ad5e-95df9d935bd6/public_url) **JavaScript Essentials 2 Badge**
+- [![Network Defense]()](https://www.credly.com/badges/ab869f6b-0d79-43ff-8323-32d34cdde19c/public_url) **Network Defense Badge**
 
 
 ## 🔒 Fortinet
